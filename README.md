@@ -20,7 +20,7 @@ apt-get install docker.io
 
 ```
 
-docker run -it -p 7878:431 -e "password=docker" -d jarvin/shadowsocks-img
+docker run -it -p 7878:431 -e "password=docker" -d kelvv/shadowsocks-img
 
 ```
 
